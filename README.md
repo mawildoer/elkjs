@@ -9,8 +9,6 @@ ELK's flagship is a layer-based layout algorithm that is particularly suited for
 
 Note that elkjs is not a diagramming framework itself - it computes positions for the elements of a diagram. 
 
-elkjs is the successor of [klayjs](https://github.com/kieler/klayjs).
-
 #### Demonstrator
 You can see elkjs [live in action](https://rtsys.informatik.uni-kiel.de/elklive/) in conjunction with TypeFox's [sprotty](https://github.com/eclipse/sprotty) diagramming framework. In case elklive happens to be down you can use the published [docker container](https://github.com/kieler/elk-live/pkgs/container/elk-live) to run and host it yourself.
 
